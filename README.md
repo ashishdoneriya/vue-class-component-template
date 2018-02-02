@@ -1,4 +1,4 @@
-# typescript
+# Vue Class Component Template
 
 > A Vue.js project
 
