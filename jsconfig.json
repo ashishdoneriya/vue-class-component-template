@@ -12,6 +12,6 @@
 		"jsx": "preserve",
 		"jsxFactory": "h"
 	},
-	"include": ["./**/*.ts"],
+	"include": ["./**/*.ts", "./src/**/*"],
 	"compileOnSave": false
 }
