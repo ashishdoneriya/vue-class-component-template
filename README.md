@@ -9,7 +9,9 @@ NOTE : You have to install the following extensions in vscode for formatting and
 3. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 For more information :
+
 http://csetutorials.com/format-vue-files-visual-studio-code.html
+
 http://csetutorials.com/add-linting-vuejs-project.html
 
 ## Build Setup
